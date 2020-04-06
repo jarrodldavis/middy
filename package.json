@@ -57,7 +57,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "husky": "^4.2.3",
     "jest": "^25.1.0",
-    "jsdoc": "^3.6.3",
+    "jsdoc": "3.6.3",
     "jsdoc-to-markdown": "^5.0.3",
     "marked": "^0.8.0",
     "regenerator-runtime": "^0.13.3",
